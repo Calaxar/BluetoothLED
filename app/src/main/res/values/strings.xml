@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothLED</string>
+    <string name="fill_send">Home</string>
+    <string name="fill_saved">Home2</string>
+    <string name="fill_sequence">Home3</string>
+    <string name="title_send">Send</string>
+    <string name="title_saved">Saved</string>
+    <string name="title_sequence">Sequence</string>
+</resources>

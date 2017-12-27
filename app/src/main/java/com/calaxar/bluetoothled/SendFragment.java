@@ -169,7 +169,7 @@ public class SendFragment extends Fragment {
         sendButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                MainActivity.sendColor(red, green, blue);
+                ((MainActivity) getActivity()).sendColor(red, green, blue);
             }
         });
 
